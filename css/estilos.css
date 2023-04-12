@@ -1,0 +1,28 @@
+
+
+
+.alignH {
+    background-color:#c2ecc0;
+    margin-top: 30px;
+}
+
+
+
+.columna {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #4d5061;
+    
+}
+
+.alignV {
+    background: #c74646;
+    margin-top: 20px;
+    height: 15rem;
+    }
+
+.alignM {
+        background: #4fad5f;
+        margin-top: 20px;
+        height: 15rem;
+        }
